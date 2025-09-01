@@ -1,0 +1,14 @@
+/home/ryan/Code/C#-Features/ArrayList/Sample/bin/Debug/net9.0/Sample
+/home/ryan/Code/C#-Features/ArrayList/Sample/bin/Debug/net9.0/Sample.deps.json
+/home/ryan/Code/C#-Features/ArrayList/Sample/bin/Debug/net9.0/Sample.runtimeconfig.json
+/home/ryan/Code/C#-Features/ArrayList/Sample/bin/Debug/net9.0/Sample.dll
+/home/ryan/Code/C#-Features/ArrayList/Sample/bin/Debug/net9.0/Sample.pdb
+/home/ryan/Code/C#-Features/ArrayList/Sample/obj/Debug/net9.0/Sample.GeneratedMSBuildEditorConfig.editorconfig
+/home/ryan/Code/C#-Features/ArrayList/Sample/obj/Debug/net9.0/Sample.AssemblyInfoInputs.cache
+/home/ryan/Code/C#-Features/ArrayList/Sample/obj/Debug/net9.0/Sample.AssemblyInfo.cs
+/home/ryan/Code/C#-Features/ArrayList/Sample/obj/Debug/net9.0/Sample.csproj.CoreCompileInputs.cache
+/home/ryan/Code/C#-Features/ArrayList/Sample/obj/Debug/net9.0/Sample.dll
+/home/ryan/Code/C#-Features/ArrayList/Sample/obj/Debug/net9.0/refint/Sample.dll
+/home/ryan/Code/C#-Features/ArrayList/Sample/obj/Debug/net9.0/Sample.pdb
+/home/ryan/Code/C#-Features/ArrayList/Sample/obj/Debug/net9.0/Sample.genruntimeconfig.cache
+/home/ryan/Code/C#-Features/ArrayList/Sample/obj/Debug/net9.0/ref/Sample.dll
